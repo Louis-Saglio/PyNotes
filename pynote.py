@@ -1,6 +1,10 @@
 #! /usr/bin/env python3.6
 
-import tkinter
+try:
+    import tkinter
+except ModuleNotFoundError:
+    print("Your Python installation does not include tkinter.\nInstall it or this program will not work.")
+    exit(1)
 import os
 import sys
 
