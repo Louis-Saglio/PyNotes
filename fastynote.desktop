@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Pynote
-Exec=pynote
+Name=Fastynote
+Exec=fastynote
 Terminal=false
 Type=Application
-Icon=pynote
+Icon=fastynote
 Keywords=note

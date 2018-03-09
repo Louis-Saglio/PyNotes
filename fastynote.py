@@ -9,7 +9,7 @@ import os
 import sys
 
 
-app_name = "Pynote"
+app_name = "Fastynote"
 app_data_dir = os.path.expanduser('~/.' + app_name)
 data_file_path = os.path.join(app_data_dir, 'content')
 
