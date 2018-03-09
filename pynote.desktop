@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pynote
+Exec=pynote
+Terminal=false
+Type=Application
+Icon=pynote
+Keywords=note
